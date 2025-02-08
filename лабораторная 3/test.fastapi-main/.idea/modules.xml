@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../LabaN1a-fastapi-py-main/.idea/podolskyfastapi.iml" filepath="$PROJECT_DIR$/../LabaN1a-fastapi-py-main/.idea/podolskyfastapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/test.fastapi-main.iml" filepath="$PROJECT_DIR$/.idea/test.fastapi-main.iml" />
+    </modules>
+  </component>
+</project>
