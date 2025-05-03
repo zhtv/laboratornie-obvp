@@ -1,7 +1,0 @@
-fastapi[standard]
-pydantic
-sqlalchemy
-bcrypt
-passlib
-pyjwt
-python-jose
